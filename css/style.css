@@ -1,0 +1,46 @@
+body {
+	background-color: #252830;
+	color: white;
+}
+
+.contact-content {
+	background-color: #252840;
+}
+
+#mug-shot {
+	width: 20%;
+	height: 35%;
+}
+ 
+#project-3 {
+	height: 96%;
+}
+
+.center-block {
+	float: none;
+	display: table;
+	margin: 0 auto;
+}
+
+i {
+	float: none;
+	display: table;
+	margin: 0 auto;
+	padding-right: 6.5px;	
+	text-shadow: -1px 0 black, 0 .2px black, .2px 0 black, 0 -1px black;
+	color: white;
+}
+
+#intro {
+	background: url(https://upload.wikimedia.org/wikipedia/commons/3/3d/Code-1076536.jpg) no-repeat center fixed;
+	background-position: center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.display-4 {
+	font-family: Lobster;
+	text-shadow: -1px 0 black, 0 .2px black, .2px 0 black, 0 -1px black;
+}
